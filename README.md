@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ramizimran.
+- 👋 Hi, I’m @sizarcorpse.
 - 📖 I'm pursuing a bachelor's degree in computer science and engineering.
 - 💖 I’m interested in programming, physics, philosophy.
 - 🎭 I enjoy playing video games, watching anime and listening so much music. 

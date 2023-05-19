@@ -6,6 +6,7 @@
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/ramizimran/).
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/sizarcorpse?color=%231DA1F2&logo=twitter&style=for-the-badge)
+![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
 
 [![Ramiz's GitHub stats](https://github-profile-stats-prod-ux-74.vercel.app/api?username=sizarcorpse&show_icons=true&theme=dracula)](https://github.com/sizarcorpse/sizarcorpse)
 [![Top Langs](https://github-profile-stats-prod-ux-74.vercel.app/api/top-langs/?username=sizarcorpse&layout=compact&theme=dracula)](https://github.com/sizarcorpse/sizarcorpse)

@@ -14,7 +14,6 @@
 ![SCSS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 
 _I possess extensive knowledge of JavaScript, TypeScript, and SCSS, along with a foundational understanding of Bash Scripting Language and Python. These languages empower me to develop versatile and robust web applications. I thrive on crafting elegant and maintainable code, dedicated to delivering seamless user interactions. Continuously honing my skills and keeping up with industry advancements, I strive to deliver exceptional results while staying at the forefront of technology._
 

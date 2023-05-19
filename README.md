@@ -22,10 +22,11 @@
 ![NextJs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![ReactJs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![NodeJs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
 ![Strapi](https://img.shields.io/badge/strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white)
-
 ![MaterialUI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 [![Ramiz's GitHub stats](https://github-profile-stats-prod-ux-74.vercel.app/api?username=sizarcorpse&show_icons=true&theme=dracula)](https://github.com/sizarcorpse/sizarcorpse)
 [![Top Langs](https://github-profile-stats-prod-ux-74.vercel.app/api/top-langs/?username=sizarcorpse&layout=compact&theme=dracula)](https://github.com/sizarcorpse/sizarcorpse)
+
+![Twitter Follow](https://img.shields.io/linkedin.com/in/ramizimran/?style=for-the-badge)

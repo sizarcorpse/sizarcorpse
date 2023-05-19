@@ -3,7 +3,7 @@
 - 💖 I’m interested in programming, physics, philosophy.
 - 🎭 I enjoy playing video games, watching anime and listening so much music. 
 - 🌱 I’m currently learning Full stack web development.
-- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/ramizimran/).
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/ramizimran/). [Twitter](https://twitter.com/sizarcorpse)
 
 ---
 
@@ -41,6 +41,6 @@ _I specialize in top-tier frameworks including Next.js, React.js, and Node.js, a
 
 ---
 
-[![Ramiz's GitHub stats](https://github-profile-stats-prod-ux-74.vercel.app/api?username=sizarcorpse&show_icons=true&theme=dracula)](https://github.com/sizarcorpse/sizarcorpse)
-[![Top Langs](https://github-profile-stats-prod-ux-74.vercel.app/api/top-langs/?username=sizarcorpse&layout=compact&theme=dracula)](https://github.com/sizarcorpse/sizarcorpse)
+|[![Sizar's GitHub stats](https://github-profile-stats-prod-ux-74.vercel.app/api?username=sizarcorpse&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true)](https://github.com/sizarcorpse/sizarcorpse)|[![Top Langs](https://github-profile-stats-prod-ux-74.vercel.app/api/top-langs/?username=sizarcorpse&layout=compact&theme=buefy&hide_border=true)](https://github.com/sizarcorpse/sizarcorpse)|
+|-|-|
 

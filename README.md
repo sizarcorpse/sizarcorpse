@@ -40,6 +40,8 @@ _I specialize in top-tier frameworks including Next.js, React.js, and Node.js, a
 
 ---
 
-|[![Sizar's GitHub stats](https://github-profile-stats-prod-ux-74.vercel.app/api?username=sizarcorpse&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true)](https://github.com/sizarcorpse/sizarcorpse)|[![Top Langs](https://github-profile-stats-prod-ux-74.vercel.app/api/top-langs/?username=sizarcorpse&layout=compact&theme=buefy&hide_border=true)](https://github.com/sizarcorpse/sizarcorpse)|
+|[![Sizar's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sizarcorpse&theme=default)](https://github.com/sizarcorpse/sizarcorpse)|[![Top Langs](https://github-profile-stats-prod-ux-74.vercel.app/api/top-langs/?username=sizarcorpse&layout=compact&theme=buefy&hide_border=true)](https://github.com/sizarcorpse/sizarcorpse)|
 |-|-|
 
+|[![Sizar's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=sizarcorpse)](https://github.com/sizarcorpse/sizarcorpse)|
+|-|

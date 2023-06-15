@@ -3,7 +3,7 @@
 - 💖 I’m interested in programming, physics, philosophy.
 - 🎭 I enjoy playing video games, watching anime and listening so much music. 
 - 🌱 I’m currently learning Full stack web development.
-- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/ramizimran/) | [Twitter](https://twitter.com/sizarcorpse) | [sizar.io](https://sizar.io)
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/ramizimran/) [Twitter](https://twitter.com/sizarcorpse) [sizar.io](https://sizar.io)
 
 ---
 

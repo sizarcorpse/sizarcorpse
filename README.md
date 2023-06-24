@@ -28,6 +28,7 @@ _I possess extensive knowledge of JavaScript, TypeScript, and SCSS, along with a
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
 _I specialize in top-tier frameworks including Next.js, React.js, and Node.js, allowing me to create efficient server-side rendered applications with seamless client-side navigation. I am skilled in MongoDB and PostgreSQL databases, ensuring flexible and robust data storage solutions. For UI design, I utilize Material-UI and Tailwind CSS to create visually appealing and responsive interfaces. Additionally, I have intermediate-level proficiency in Strapi and Firebase, enabling me to build customizable and content-driven applications. With these tools and frameworks, I deliver high-quality, scalable, and user-centric web applications._
 

@@ -22,6 +22,7 @@ _I possess extensive knowledge of JavaScript, TypeScript, and SCSS, along with a
 ![NextJs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![ReactJs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![NodeJs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![ExpressJs](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Strapi](https://img.shields.io/badge/strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white)
 ![MaterialUI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -29,6 +30,9 @@ _I possess extensive knowledge of JavaScript, TypeScript, and SCSS, along with a
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![React-Hook-Form](https://img.shields.io/badge/ReactHookForm-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
+![Swr](https://img.shields.io/badge/swr-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
 _I specialize in top-tier frameworks including Next.js, React.js, and Node.js, allowing me to create efficient server-side rendered applications with seamless client-side navigation. I am skilled in MongoDB and PostgreSQL databases, ensuring flexible and robust data storage solutions. For UI design, I utilize Material-UI and Tailwind CSS to create visually appealing and responsive interfaces. Additionally, I have intermediate-level proficiency in Strapi and Firebase, enabling me to build customizable and content-driven applications. With these tools and frameworks, I deliver high-quality, scalable, and user-centric web applications._
 

@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sizarcorpse.
 - 📖 I've pursued a bachelor's degree in computer science and engineering.
-- 💖 I’m interested in programming, physics, philosophy.
-- 🎭 I enjoy playing video games, watching anime and listening so much music. 
+- 💖 I’m interested in programming, physics, and philosophy.
+- 🎭 I enjoy playing video games, watching anime, and listening to so much music. 
 - 🌱 I’m currently learning Full stack web development.
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/ramizimran/) [Twitter](https://twitter.com/sizarcorpse) [sizar.io](https://sizar.io)
 
@@ -15,7 +15,7 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
-_I possess extensive knowledge of JavaScript, TypeScript, and SCSS, along with a foundational understanding of Bash Scripting Language and Python. These languages empower me to develop versatile and robust web applications. I thrive on crafting elegant and maintainable code, dedicated to delivering seamless user interactions. Continuously honing my skills and keeping up with industry advancements, I strive to deliver exceptional results while staying at the forefront of technology._
+_I possess extensive knowledge of JavaScript, TypeScript, and SCSS, along with a foundational understanding of Bash Scripting Language and Python. These languages empower me to develop versatile and robust web applications. I thrive on crafting elegant and maintainable code that delivers seamless user interactions. Continuously honing my skills and keeping up with industry advancements, I strive to deliver exceptional results while staying at the forefront of technology._
 
 ---
 
@@ -34,7 +34,7 @@ _I possess extensive knowledge of JavaScript, TypeScript, and SCSS, along with a
 ![Swr](https://img.shields.io/badge/swr-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
-_I specialize in top-tier frameworks including Next.js, React.js, and Node.js, allowing me to create efficient server-side rendered applications with seamless client-side navigation. I am skilled in MongoDB and PostgreSQL databases, ensuring flexible and robust data storage solutions. For UI design, I utilize Material-UI and Tailwind CSS to create visually appealing and responsive interfaces. Additionally, I have intermediate-level proficiency in Strapi and Firebase, enabling me to build customizable and content-driven applications. With these tools and frameworks, I deliver high-quality, scalable, and user-centric web applications._
+_I specialize in top-tier frameworks including Next.js, React.js, and Node.js, allowing me to create efficient server-side rendered applications with seamless client-side navigation. I am skilled in MongoDB and PostgreSQL databases, ensuring flexible and robust data storage solutions. For UI design, I utilize Material-UI and Tailwind CSS to create visually appealing and responsive interfaces. Additionally, I have intermediate-level proficiency in Strapi and Firebase, enabling me to build customizable and content-driven applications. I deliver high-quality, scalable, and user-centric web applications with these tools and frameworks._
 
 ---
 

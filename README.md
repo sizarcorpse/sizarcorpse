@@ -28,11 +28,13 @@ _I possess extensive knowledge of JavaScript, TypeScript, and SCSS, along with a
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![React-Hook-Form](https://img.shields.io/badge/ReactHookForm-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
 ![Swr](https://img.shields.io/badge/swr-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
 _I specialize in top-tier frameworks including Next.js, React.js, and Node.js, allowing me to create efficient server-side rendered applications with seamless client-side navigation. I am skilled in MongoDB and PostgreSQL databases, ensuring flexible and robust data storage solutions. For UI design, I utilize Material-UI and Tailwind CSS to create visually appealing and responsive interfaces. Additionally, I have intermediate-level proficiency in Strapi and Firebase, enabling me to build customizable and content-driven applications. I deliver high-quality, scalable, and user-centric web applications with these tools and frameworks._
 
@@ -44,6 +46,7 @@ _I specialize in top-tier frameworks including Next.js, React.js, and Node.js, a
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
 ---
 

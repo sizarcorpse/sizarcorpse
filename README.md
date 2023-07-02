@@ -47,7 +47,7 @@ _I specialize in top-tier frameworks including Next.js, React.js, and Node.js, a
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-
+![Windows11](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)
 ---
 
 |[![Sizar's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sizarcorpse&theme=default)](https://github.com/sizarcorpse/sizarcorpse)|[![Top Langs](https://github-profile-stats-prod-ux-74.vercel.app/api/top-langs/?username=sizarcorpse&layout=compact&theme=buefy&hide_border=true)](https://github.com/sizarcorpse/sizarcorpse)|
